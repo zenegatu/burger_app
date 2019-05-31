@@ -1,3 +1,8 @@
+
+demo site: https://myburgerapp-39307.firebaseapp.com/
+This is a React/Redux App demo Where the user can build his own burger and order.
+
+----------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
