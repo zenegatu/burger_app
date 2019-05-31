@@ -1,0 +1,12 @@
+.LoginData {
+    text-align: center;
+    border: 1px solid #666;
+    box-shadow: 2px 2px #333 ;
+    box-sizing: border-box;
+}
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
